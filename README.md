@@ -4,7 +4,7 @@ Module 20
 
 The purpose of this analysis is to see how well the models can perform when asked to predict certain values. 
 
-*              precision    recall  f1-score   support
+                   precision recall  f1-score   support
 
            0       1.00      1.00      1.00     18762
            1       0.87      0.92      0.89       622
